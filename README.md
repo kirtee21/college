@@ -1,4 +1,4 @@
 # college
 This is my first git repository.
 <br>
-Author - kirtee kardate
+Author - kirtee (pawar)
